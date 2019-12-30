@@ -1,0 +1,12 @@
+.card{
+    background-color: rgb(28, 175, 219);
+    padding: 10% 20% 20% 20%;
+}
+button{
+    color: brown;
+}
+mat-card-content{
+    text-align: center;
+    background-color: brown;
+    padding: 2%;
+}
